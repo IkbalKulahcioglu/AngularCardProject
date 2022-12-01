@@ -1,4 +1,11 @@
-.card
+.main
 {
-width: 350px; 
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 800px;
+
+
 }
+
+
